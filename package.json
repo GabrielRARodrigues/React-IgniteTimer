@@ -11,8 +11,10 @@
   },
   "dependencies": {
     "ignitetimer": "file:",
+    "phosphor-react": "^1.4.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.1",
     "styled-components": "^6.1.13"
   },
   "devDependencies": {
@@ -25,7 +27,7 @@
     "eslint-config-prettier": "^9.1.0",
     "globals": "^15.9.0",
     "prettier": "^3.3.3",
-    "typescript": "^5.5.3",
+    "typescript": "^5.5.4",
     "vite": "^5.4.1"
   }
 }
